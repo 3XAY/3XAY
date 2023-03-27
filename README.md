@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @3XAY
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning how to make apps.
-- 💞️ I’m looking to collaborate on nothing.
-- 📫 How to reach me scratch.mit.edu/users/3xay
+Hey, I’m @3XAY
+
+I’m interested in developing applications that I and others can use on a day-to-day basis, they're mainly Python-based.
+If you want to reach me, consider messaging me on Discord at 3XAY#9958!
 
 <!---
 3XAY/3XAY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
